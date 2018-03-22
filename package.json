@@ -1,0 +1,28 @@
+{
+  "name": "jacek",
+  "version": "1.0.0",
+  "description": "pierwsza strona jacka",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maciejju/node-jacek.git"
+  },
+  "keywords": [
+    "trening"
+  ],
+  "author": "Maciej Jurowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maciejju/node-jacek/issues"
+  },
+  "homepage": "https://github.com/Maciejju/node-jacek#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.3",
+    "express-ejs-layouts": "^2.3.1",
+    "node-sass-middleware": "^0.11.0"
+  }
+}
